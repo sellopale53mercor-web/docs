@@ -1,3 +1,4 @@
+![1000050893](https://github.com/user-attachments/assets/e2b82e3e-5a98-4874-9950-d3696451f1b9)
 ---
 title: Costs and multipliers for using GitHub Models directly
 shortTitle: Costs for GitHub Models
